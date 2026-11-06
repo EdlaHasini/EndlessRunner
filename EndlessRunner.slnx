@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="GauntletRun.Game.csproj" />
+  <Project Path="GauntletRun.Core.csproj" />
+  <Project Path="GauntletRun.Core.Tests.csproj" />
+  <Project Path="GauntletRun.PlayModeTests.csproj" />
+  <Project Path="GauntletRun.Editor.csproj" />
+</Solution>
